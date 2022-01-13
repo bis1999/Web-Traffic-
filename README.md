@@ -8,5 +8,8 @@ Final SMAPE score 41.119
 This competition focuses on the problem of forecasting the future values of multiple time series, as it has always been one of the most challenging problems in the field. More specifically, we aim the competition at testing state-of-the-art methods designed by the participants, on the problem of forecasting future web traffic for approximately 145,000 Wikipedia articles.
 I explored the data with extensive data analysis and created features which helped me in improving the score
 My aim is to use to apply deep learning techniques like CNN, CNN -LSTM, CNN with dilations. Reformulating the data in order to apply such techniques was an interesting task. 
-At the end I compared these models according to SMAPE score below is the table listing SMAPE score achieved with different models 
+At the end I compared these models according to SMAPE score .At the end CNN-dilation models performed the best 
+
+![score](https://user-images.githubusercontent.com/40723953/149317669-34bbaf96-59b8-4737-85f4-6ef8d04d4b4c.png)
+
 
